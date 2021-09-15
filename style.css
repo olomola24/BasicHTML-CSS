@@ -1,0 +1,74 @@
+body {
+    background-color: hsl(210, 46%, 95%);
+}
+
+.sideup {
+    background-color: hsl(263, 55%, 52%);
+    color: white;
+    border-radius: 10px;
+    margin-right: 20px;
+
+}
+
+.sideup1 {
+    padding-bottom: 30px;
+
+}
+
+h5,
+p {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+
+.sideup2 {
+    background-color: hsl(217, 19%, 35%);
+    color: white;
+    border-radius: 10px;
+
+}
+
+.downup1 {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.downup2 {
+    background-color: hsl(219, 29%, 14%);
+    border-radius: 10px;
+    color: white;
+}
+
+.wegbe {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+}
+
+.upperversion {
+    padding-right: 20px;
+
+}
+
+.upperversion1 {
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        background-color: hsl(210, 46%, 95%);
+    }
+
+    .sideup {
+        margin-bottom: 20px;
+    }
+
+    .downup1 {
+        margin-bottom: 20px;
+    }
+
+    .downup2 {
+        margin-bottom: 20px;
+    }
+}
